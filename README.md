@@ -36,11 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A ryght frutefull epystle, deuysed by the moste excellent clerke Erasmns [sic], in laude and prayse 
+
+1. To the ryght honorable Mayster Cromwell one of the kynges moste honorable counsell, his humble seruaūt Rycharde Cauernour sendeth greating.
+
 #####Body#####
-A ryght frutefull epystle, deuysed by the moste excellent clerke Erasmns [sic], in laude and prayse 
+
+1. ¶ An Epistle in prayse of matrymony.
+
 #####Back#####
-A ryght frutefull epystle, deuysed by the moste excellent clerke Erasmns [sic], in laude and prayse 
+Imprynted at London in Flestrete at the sygne of the George by me Robert Redman. CVM PRIVILEGIO REGA
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
